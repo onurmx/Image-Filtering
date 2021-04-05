@@ -17,6 +17,7 @@ Image filtering software which uses special algorithms to manipulate images.
 
 ### Dithering Algorithm
 1. Ordered Dithering
+2. Image representation in Y'CbCr color model
 
 ### Color Quantization Algorithm
 1. Uniform Quantization
@@ -24,3 +25,4 @@ Image filtering software which uses special algorithms to manipulate images.
 ### Additional Filters
 1. 3x3 Median
 2. Grayscale
+
